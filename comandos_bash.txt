@@ -1,3 +1,5 @@
-ls _> lista de arquivos
-cd _> move entre diretorios
-pwd _> mostra diretório de trabalho
+ls -> lista de arquivos
+cd -> move entre diretorios
+pwd -> mostra diretório de trabalho
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório

@@ -12,3 +12,4 @@ Além de trabalhar com GitFlow ao final do curso e VSCode.
 
 Se quiser aprender sobre a área de dados, \_confira o canal do TeoMeWhy no \*Youtube\*\_
 
+[Curso Git 2025] (https://youtube.com/@teomewhy)
